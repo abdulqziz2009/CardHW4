@@ -21,7 +21,7 @@
         tools:layout="@layout/fragment_fore_store_" />
     <fragment
         android:id="@+id/profile_Fragment"
-        android:name="com.myself223.card.Fragments.Profile_Fragment"
+        android:name="com.example.Fragments.profile.Profile_Fragment"
         android:label="fragment_profile_"
         tools:layout="@layout/fragment_profile_" />
     <fragment

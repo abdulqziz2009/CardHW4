@@ -1,4 +1,4 @@
-package com.myself223.card.Fragments
+package com.example.Fragments.profile
 
 import android.os.Build
 import android.os.Bundle
